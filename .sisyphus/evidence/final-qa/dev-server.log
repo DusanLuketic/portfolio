@@ -1,0 +1,254 @@
+
+> dusan-luketic-portfolio@0.1.0 dev
+> next dev
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\Luketici\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\package-lock.json
+
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.3:3000
+
+ ✓ Starting...
+ ✓ Ready in 1557ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1891ms (1803 modules)
+ GET / 200 in 3056ms
+ ✓ Compiled in 1548ms (659 modules)
+ GET / 200 in 94ms
+ GET / 200 in 99ms
+ ✓ Compiled in 194ms (659 modules)
+ GET / 200 in 41ms
+ ✓ Compiled in 216ms (659 modules)
+ GET / 200 in 226ms
+ ✓ Compiled in 132ms (659 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 103ms
+ GET / 200 in 147ms
+ POST / 200 in 125ms
+ ✓ Compiled in 111ms (659 modules)
+ GET / 200 in 39ms
+ POST / 200 in 12ms
+ ✓ Compiled in 187ms (659 modules)
+ GET / 200 in 192ms
+ GET / 200 in 87ms
+ GET / 200 in 87ms
+ GET / 200 in 83ms
+ GET / 200 in 87ms
+ GET / 200 in 90ms
+ ✓ Compiled in 174ms (659 modules)
+ GET / 200 in 40ms
+ ✓ Compiled in 117ms (659 modules)
+ GET / 200 in 34ms
+ GET / 200 in 86ms
+ ✓ Compiled in 120ms (659 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 672ms (2149 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+ GET / 500 in 4261ms
+ GET / 500 in 303ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+ GET / 500 in 1048ms
+ GET / 500 in 366ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+ GET / 500 in 885ms
+ GET / 500 in 286ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+ GET / 500 in 877ms
+ GET / 500 in 264ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json'
+}
+ GET / 500 in 894ms
+ GET / 500 in 257ms
+ ✓ Compiled /favicon.ico in 190ms (1355 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Luketici\Desktop\Projects\dusan-luketic-portfolio\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Luketici\\Desktop\\Projects\\dusan-luketic-portfolio\\.next\\routes-manifest.json',
+  page: '/favicon.ico'
+}
+ GET /favicon.ico 500 in 372ms
+ ✓ Compiled in 316ms (2166 modules)
+ ✓ Compiled in 134ms (811 modules)
+ ✓ Compiled in 141ms (811 modules)
+ ✓ Compiled in 184ms (811 modules)
+ ✓ Compiled in 140ms (811 modules)
+ ✓ Compiled in 114ms (811 modules)
+ ✓ Compiled in 129ms (810 modules)
+ ✓ Compiled in 126ms (810 modules)
+ ✓ Compiled in 144ms (810 modules)
+ ✓ Compiled in 123ms (810 modules)
+ ✓ Compiled in 139ms (810 modules)
+ ✓ Compiled in 122ms (810 modules)
+ ✓ Compiled in 181ms (810 modules)
+ ✓ Compiled in 100ms (810 modules)
+ ✓ Compiled in 177ms (810 modules)
+ ✓ Compiled in 90ms (810 modules)
+ ✓ Compiled in 185ms (810 modules)
+ ✓ Compiled in 128ms (810 modules)
+ ✓ Compiled in 168ms (810 modules)
+ ✓ Compiled in 412ms (810 modules)
+ ✓ Compiled in 467ms (2053 modules)
+ ✓ Compiled in 140ms (810 modules)
+ ✓ Compiled in 497ms (2053 modules)
+ ✓ Compiled in 246ms (810 modules)
+ ✓ Compiled in 215ms (810 modules)

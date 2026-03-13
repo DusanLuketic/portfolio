@@ -1,0 +1,16 @@
+=== tailwind.config.ts check ===
+ABSENT (correct)
+
+=== postcss.config.mjs ===
+const config = {
+  plugins: {
+    "@tailwindcss/postcss": {},
+  },
+};
+
+export default config;
+
+=== globals.css first 3 lines ===
+@import "tailwindcss";
+
+@theme {

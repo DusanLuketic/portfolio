@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#171717"/>
+  <!-- head circle -->
+  <circle cx="300" cy="260" r="100" fill="#262626"/>
+  <!-- body -->
+  <path d="M100 800 C100 580 500 580 500 800Z" fill="#262626"/>
+  <!-- subtle blue accent dot -->
+  <circle cx="490" cy="740" r="20" fill="#0066FF" opacity="0.6"/>
+</svg>

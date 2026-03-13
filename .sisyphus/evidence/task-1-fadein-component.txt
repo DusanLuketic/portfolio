@@ -1,0 +1,11 @@
+=== FadeIn.tsx existence check ===
+src/components/ui/FadeIn.tsx
+
+=== 'use client' directive ===
+"use client";
+
+=== motion/react import ===
+import { motion } from "motion/react";
+
+=== framer-motion check (should be absent) ===
+framer-motion: ABSENT (correct)
