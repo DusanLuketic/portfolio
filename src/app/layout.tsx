@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Inter } from "next/font/google";
+import { ParticlesBackground } from "@/components/ui/ParticlesBackground";
 import "./globals.css";
 
 const geist = Geist({
@@ -56,7 +57,8 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable} ${inter.variable}`}>
       <body className="bg-neutral-950 text-neutral-100 font-sans antialiased">
-        {children}
+        <ParticlesBackground />
+        <div className="relative z-10">{children}</div>
       </body>
     </html>
   );
